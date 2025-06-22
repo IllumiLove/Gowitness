@@ -1,11 +1,11 @@
 
 # Gowitness
 
-> **Golang 打造的網站截圖工具，採用 Chrome Headless。**
+> **Illumi 打造的網站截圖工具，採用 Chrome Headless。**
 
-[![Twitter @leonjza](https://img.shields.io/badge/twitter-%40leonjza-blue.svg)](https://twitter.com/leonjza)
+[![Twitter @sakumaillumi](https://img.shields.io/badge/twitter-%40leonjza-blue.svg)](https://x.com/sakumaillumi)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sensepost/gowitness)](https://goreportcard.com/report/github.com/sensepost/gowitness)
-[![Docker build & push](https://github.com/sensepost/gowitness/actions/workflows/docker.yml/badge.svg)](https://github.com/sensepost/gowitness/actions/workflows/docker.yml)
+[![Docker build & push](https://github.com/sensepost/gowitness/actions/workflows/docker.yml/badge.svg)](https://github.com/IllumiLove/Gowitness/actions)
 
 ---
 
